@@ -3,7 +3,7 @@
 public class sample {
     public static void main(String[] args) {
         System.out.println("constructor");
-        sample s = new sample();
+        new sample();
     }
 
     //constructor
