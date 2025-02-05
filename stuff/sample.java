@@ -1,13 +1,15 @@
 package stuff;
 
-public class sample {
+class sample {
 
-    static int a = 10;
+    void display(){
+        System.out.println("display is  working...");
+    }
+
     public static void main(String[] args) {
-        System.out.println(a);
-        int k = 20;
-        System.out.println(k);
-        int m = 30;
-        System.out.println(m);
+        // sample s = new sample();
+        // s.display();
+
+        new sample().display();
     }
 }
