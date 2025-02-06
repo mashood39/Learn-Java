@@ -1,6 +1,6 @@
 package stuff;
 
-class sample {
+ class sample {
 
     void display(){
         System.out.println("display is  working...");
@@ -13,3 +13,5 @@ class sample {
         new sample().display();
     }
 }
+
+
