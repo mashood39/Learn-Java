@@ -1,0 +1,5 @@
+# file name and the class name can be different in java, but class should not be
+    public
+
+# static keyword can't be used inside a method.
+
